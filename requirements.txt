@@ -3,6 +3,7 @@ azure-functions==1.14.0
 blinker==1.4
 certifi==2023.5.7
 charset-normalizer==3.1.0
+command-not-found
 cryptography==3.4.8
 czifile==2019.7.2
 dbus-python==1.2.18
@@ -10,7 +11,7 @@ defusedxml==0.7.1
 dicomweb-client==0.59.1
 distlib==0.3.6
 distro==1.7.0
-distro-info===1.1build1
+distro-info
 dnspython==2.3.0
 elementpath==4.1.2
 email-validator==2.0.0.post2
